@@ -1,0 +1,8 @@
+IPython
+matplotlib==2
+numpy
+pandas
+seaborn
+scipy
+sobol_seq
+xlrd==1.1.0
