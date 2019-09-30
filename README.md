@@ -1,3 +1,3 @@
 # Irrigation_Model
 
-Python script underpinning the paper 'Large and irreducible uncertainty in the prediction of future irrigated areas' - Puy, Lo Piano and Saltelli
+Python script underpinning the manuscript 'The future environmental impact of irrigated agriculture is grossly underestimated', currently under consideration for publication - Puy, Lo Piano and Saltelli
